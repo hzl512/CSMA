@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+	     	
+		<TextView
+            android:id="@+id/textUsersName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textUsersAddTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textUsersNickName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textUsersPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textUsersQQ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textDepartmentsID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textProfessionID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+			
+		<TextView
+            android:id="@+id/textUsersGrade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:text="--" />
+		
+</LinearLayout>

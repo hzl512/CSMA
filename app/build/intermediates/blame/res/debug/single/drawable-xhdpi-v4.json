@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_arrow_left.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\CSMA\\appLib\\unspecified\\res\\drawable-xhdpi-v4\\refresh_arrow_left.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_item_bg_2.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\CSMA\\appLib\\unspecified\\res\\drawable-xhdpi-v4\\list_item_bg_2.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_arrow.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\CSMA\\appLib\\unspecified\\res\\drawable-xhdpi-v4\\refresh_arrow.png"
+    }
+]

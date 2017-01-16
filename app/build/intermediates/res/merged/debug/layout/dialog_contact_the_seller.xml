@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:minWidth="1000dp"
+    android:orientation="vertical"
+    android:padding="10dip">
+
+    <Button
+        android:id="@+id/btnQQ"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_selector"
+        android:text="QQ"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btnPhone"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_selector"
+        android:text="打电话"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btnMessage"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_selector"
+        android:text="发短信"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btnEsc"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_esc_selector"
+        android:text="取消"
+        android:textColor="@color/white" />
+</LinearLayout>

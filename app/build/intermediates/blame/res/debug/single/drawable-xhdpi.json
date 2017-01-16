@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_home_checked.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_home_checked.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_classify_checked.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_classify_checked.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_zl.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_zl.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gray_f.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\btn_gray_f.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dn.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_dn.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cam_photo.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\cam_photo.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_sm.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_sm.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_f.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\right_f.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_profilo_normal.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_profilo_normal.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_find_normal.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_find_normal.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\find_want_contact.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\find_want_contact.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_tsjc.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_tsjc.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_profilo_checked.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_profilo_checked.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_feed_location.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\home_feed_location.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_n.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\left_n.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_find_checked.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_find_checked.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_green_n.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\btn_green_n.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_green_f.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\btn_green_f.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_smpj.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_smpj.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_f.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\left_f.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_n.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\right_n.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_xydb.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_xydb.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_dq.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_dq.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_shyl.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_shyl.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_classify_normal.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_classify_normal.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_qt.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_qt.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_ydjs.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_ydjs.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_home_normal.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\tab_home_normal.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_sj.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_sj.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gray_n.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\btn_gray_n.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_yfsm.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\drawable-xhdpi\\icon_yfsm.png"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    }
+]

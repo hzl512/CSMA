@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#fff50000</color>
+    <color name="green">#ff1ce925</color>
+    <color name="black">#ff000000</color>
+    <color name="black_25">#40000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="white">#ffffff</color>
+    <color name="tab_txt_bg_s">#41E3B8</color>
+    <color name="tab_txt_bg_n">#333333</color>
+    <color name="line">#e5e5e5</color>
+    <color name="line1">#FF5001</color>
+
+    <color name="black_overlay">#999</color>
+    <color name="background_white">#ffffff</color>
+    <color name="background_titlebar">#F5F5F5</color>
+    <color name="background_bg">#F5F5F5</color>
+    <color name="background_huise">#F4F4F4</color>
+    <color name="tab_line">#00E5B1</color>
+    <color name="titlebar_line">#00DFAD</color>
+    <color name="titlebar_txt">#333333</color>
+    <color name="sex_pink">#FFFFB0BA</color>
+    <color name="sex_green">#00E5B1</color>
+    <color name="list_item_divider">#e5e5e5</color>
+    <!--主色调（按钮背景、链接字色、线条等）-->
+    <color name="main_color">#48be7c</color>
+
+</resources>

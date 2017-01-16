@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">校园二手交易</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_index">校园二手交易市场</string>
+    <string name="about_msg">校园二手交易市场</string>
+
+    <string name="title_activity_commodity_detail">CommodityDetailActivity</string>
+    <string name="title_activity_commodity_list">CommodityListActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_buys_add">BuysAddActivity</string>
+    <string name="title_activity_sign">SignActivity</string>
+    <string name="title_activity_departments_list">DepartmentsListActivity</string>
+    <string name="title_activity_profession_list">ProfessionListActivity</string>
+    <string name="title_activity_users_detail">UsersDetailActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_commodity_list1">CommodityList1Activity</string>
+    <string name="title_activity_buys_list">BuysListActivity</string>
+    <string name="title_activity_commodity_add">CommodityAddActivity</string>
+    <string name="title_activity_crop_image">CropImageActivity</string>
+    <string name="title_activity_category_list">CategoryListActivity</string>
+
+</resources>

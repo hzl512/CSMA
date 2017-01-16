@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\classes-6281cbbba3f739b1b9284338cab1b7aa425fca68.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.7\cd78109020f9ec803ef4e652c17ee4615b03e20a\android-async-http-1.4.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.7-c6918806acf1f7ac70410f723ab4aec2771b4d43.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.1_2564bf40309ff15b7e1e886015f15c8dd7e63f90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.2\b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd\httpcore-4.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\httpcore-4.4.2-1d3f813b19b3f4f3d3be27d33c63e301ea95b890.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_3fba056178cd8e124b89e30f7f789de6c753d1e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\classes-ee3b4a39e64a7820baf418328c8551233e60417f.jar" />
+    </item>
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-9eff610fc7f809949c154c7278b27c1e7fa1a89c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_48f328aacfbc07179c8d20af0ad09cd9ce25f2e0\classes.dex" />
+    </item>
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\CSMA\appLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a9fb818671a902400a3cd0274a0c1667e65d8c21">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\classes-ff5fca854b53502c426122243d4a8c21ae6ad7c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCProgramFiles\AndroidStudioSdk2016\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_89de8b90ed790bc94b8d49997699e1f586f45e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_a1cc6d50bb5559648a0a79955bd7bf6783ccc0e3\classes.dex" />
+    </item>
+    <item
+        jar="D:\YCProgramFiles\AndroidStudioSdk\AndroidStudioSdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-94dc1f7e58ea13e8ea16cd1a6fc13aaf0907541c.jar" />
+    </item>
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\classes-0d57d850226b808eef1a8dd4b7d7f8c4cf3597be.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-b166c6acd2be2eb9315008c1cf987d5f0c122f6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_3f8b246e0392b5a2cbe84ff1e0cf8f2a767fd3e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-9264d970f2500f85f17d8343c61d2b5fbbdc6148.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.2\b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd\httpcore-4.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.2_1d3f813b19b3f4f3d3be27d33c63e301ea95b890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e1bbc9a146adbb44439e6855c865f0277e1c372">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_68d76f416ccc9519c8b4ce14f675823a9160261e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.7\cd78109020f9ec803ef4e652c17ee4615b03e20a\android-async-http-1.4.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.7_c6918806acf1f7ac70410f723ab4aec2771b4d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_b166c6acd2be2eb9315008c1cf987d5f0c122f6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\exploded-aar\CSMA\appLib\unspecified\jars\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7798c9e4488d7c7f42a7621be1bf83583e4ef706">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\8\ksoap2-android-assembly-3.3.0-jar-with-dependencies_27a92098bc61e41ce0a006b8d3c3310f5547f8f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\YCWorks\Test2016\CSMA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b834b1d2eb458e5c68bca63c4ee683439c1e5f45">
+        <dex dex="D:\YCWorks\Test2016\CSMA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd712e5c0fa2683f6b0f7c9041a27cd7ad86ff70\classes.dex" />
+    </item>
+    <item
+        jar="D:\YCWorks\Test\CSMA\app\build\intermediates\exploded-aar\CSMA\appLib\unspecified\jars\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="D:\YCWorks\Test\CSMA\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies-3c9b46e3cf3b5bd999c819f05c9981de89339ae0.jar" />
+    </item>
+
+</items>

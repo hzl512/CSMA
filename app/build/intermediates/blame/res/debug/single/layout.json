@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commodity_add.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_commodity_add.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_users.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\list_item_users.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_profession.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\list_item_profession.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_contact_the_seller.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\dialog_contact_the_seller.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_avatar.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\choose_avatar.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_buys.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\list_item_buys.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waterdroplistview_footer.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\CSMA\\appLib\\unspecified\\res\\layout\\waterdroplistview_footer.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_title_bar.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\include_title_bar.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tagview_item.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\CSMA\\appLib\\unspecified\\res\\layout\\tagview_item.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commodity_detail.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_commodity_detail.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spiner_item_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\spiner_item_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spiner_item_0.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\spiner_item_0.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_commodity.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\list_item_commodity.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_users_detail.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_users_detail.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waterdroplistview_header.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\CSMA\\appLib\\unspecified\\res\\layout\\waterdroplistview_header.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profession_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_profession_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_users.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\fragment_users.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_buys.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\fragment_buys.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buys_add.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_buys_add.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_departments_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_departments_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buys_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_buys_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_category.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\list_item_category.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_msg.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\view_msg.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_category_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_departments.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\list_item_departments.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commodity_list1.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_commodity_list1.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commodity_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_commodity_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crop_image.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\activity_crop_image.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_commodity.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\layout\\fragment_commodity.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]

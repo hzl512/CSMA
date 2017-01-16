@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\appLib\\build\\intermediates\\res\\merged\\debug\\layout\\tagview_item.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\appLib\\src\\main\\res\\layout\\tagview_item.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\appLib\\build\\intermediates\\res\\merged\\debug\\layout\\waterdroplistview_footer.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\appLib\\src\\main\\res\\layout\\waterdroplistview_footer.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\appLib\\build\\intermediates\\res\\merged\\debug\\layout\\waterdroplistview_header.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\appLib\\src\\main\\res\\layout\\waterdroplistview_header.xml"
+    }
+]

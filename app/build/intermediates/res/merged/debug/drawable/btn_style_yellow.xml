@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 主体背景颜色值 -->
+    <item>
+        <shape>
+            <solid android:color="#FFC272"></solid>
+
+            <!-- 应该是圆角 -->
+            <corners android:radius="5dp"/>
+        </shape>
+    </item>
+</layer-list>

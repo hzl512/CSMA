@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.weicent.android.csma"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 电话 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ui.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.add.BuysAddActivity"
+            android:label="@string/title_activity_buys_add" />
+        <activity
+            android:name=".ui.detail.CommodityDetailActivity"
+            android:label="@string/title_activity_commodity_detail" />
+        <activity
+            android:name=".ui.list.CommodityListActivity"
+            android:label="@string/title_activity_commodity_list" />
+        <activity
+            android:name=".ui.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".ui.SignActivity"
+            android:label="@string/title_activity_sign" >
+        </activity>
+        <activity
+            android:name=".ui.list.DepartmentsListActivity"
+            android:label="@string/title_activity_departments_list" >
+        </activity>
+        <activity
+            android:name=".ui.list.ProfessionListActivity"
+            android:label="@string/title_activity_profession_list" >
+        </activity>
+        <activity
+            android:name=".ui.detail.UsersDetailActivity"
+            android:label="@string/title_activity_users_detail" >
+        </activity>
+        <activity
+            android:name=".ui.AboutActivity"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name=".ui.list.CommodityList1Activity"
+            android:label="@string/title_activity_commodity_list1" >
+        </activity>
+        <activity
+            android:name=".ui.list.BuysListActivity"
+            android:label="@string/title_activity_buys_list" >
+        </activity>
+        <activity
+            android:name=".ui.add.CommodityAddActivity"
+            android:label="@string/title_activity_commodity_add" >
+        </activity>
+        <activity
+            android:name=".ui.other.CropImageActivity"
+            android:label="@string/title_activity_crop_image" >
+        </activity>
+        <activity
+            android:name=".ui.list.CategoryListActivity"
+            android:label="@string/title_activity_category_list" >
+        </activity>
+    </application>
+
+</manifest>

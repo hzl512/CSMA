@@ -1,0 +1,7 @@
+#Mon Jan 16 11:21:26 CST 2017
+base.0=D\:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd712e5c0fa2683f6b0f7c9041a27cd7ad86ff70
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_68d76f416ccc9519c8b4ce14f675823a9160261e\\classes.dex
+base.1=D\:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_68d76f416ccc9519c8b4ce14f675823a9160261e
+file.0=D\:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd712e5c0fa2683f6b0f7c9041a27cd7ad86ff70\\classes.dex

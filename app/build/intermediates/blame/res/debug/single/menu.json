@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_departments_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_departments_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sign.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_sign.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_commodity_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_commodity_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_buys_add.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_buys_add.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_crop_image.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_crop_image.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_commodity_detail.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_commodity_detail.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_commodity_add.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_commodity_add.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_about.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_about.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_category_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_category_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profession_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_profession_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_buys_list.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_buys_list.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_commodity_list1.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_commodity_list1.xml"
+    },
+    {
+        "merged": "D:\\YCWorks\\Test2016\\CSMA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_users_detail.xml",
+        "source": "D:\\YCWorks\\Test2016\\CSMA\\app\\src\\main\\res\\menu\\menu_users_detail.xml"
+    }
+]
